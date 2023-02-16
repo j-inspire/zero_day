@@ -1,2 +1,2 @@
 #!/bin/bash
-This is a project on vagrant..
+This is a project on vagrant.
